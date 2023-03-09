@@ -6,19 +6,21 @@ Installation:
 
 To use the ToDo List project, follow these steps:
 
-1. Install NodeJS and npm on your system, if they are not already installed. You can download NodeJS from the official website: https://nodejs.org/en/download/
+  1. Download the ZIP file with the project files.
 
-2. Open your terminal or command prompt and navigate to the project directory.
+  2. Install NodeJS and npm on your system, if they are not already installed. You can download NodeJS from the official website:           https://nodejs.org/en/download/
 
-3. Install the required modules by running the following command:
-npm install express body-parser ejs
+  3. Open your terminal or command prompt and navigate to the project directory.
 
-This will install the ExpressJS, Body-Parser, and EJS modules required for the project.
+  4. Install the required modules by running the following command:
+  npm install 
 
-4. Once the modules are installed, start the server by running the following command:
-node app.js
+  This will install the modules required for the project.
 
-5. The server will start running on localhost:3000. Open your web browser and go to http://localhost:3000 to see the ToDo List project.
+  5. Once the modules are installed, start the server by running the following command:
+  node app.js
+
+  6. The server will start running on localhost:3000. Open your web browser and go to http://localhost:3000 to see the ToDo List project.
 
 That's it! You are now ready to use the ToDo List project on your system.
 
