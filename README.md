@@ -9,11 +9,9 @@ To utilize the ToDo List Project, follow these simple steps:
 1. Download the project files as a ZIP archive.
 2. If not already installed, download and install Node.js and npm from the official website: [Node.js Official Website](https://nodejs.org/en/download/).
 3. Open your terminal or command prompt and navigate to the project directory.
-4. Run the following command to install the necessary modules:
-
-npm install 5. After the modules are installed, start the server using the command:
-
-node app.js 6. Access the ToDo List Project on your local system at http://localhost:3000.
+4. Run the following command to install the necessary modules: `npm install`
+5. After the modules are installed, start the server using the command:`node app.js`
+6. Access the ToDo List Project on your local system at http://localhost:3000.
 
 ## Usage:
 
